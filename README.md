@@ -1,3 +1,7 @@
+# eVAT-Tool aktuális verziója 
+
+[https://github.com/nav-gov-hu/eVAT-Tool/releases/tag/1.2.16](https://github.com/nav-gov-hu/eVAT-Tool/releases/tag/1.2.16)
+
 # eVAT-Tool
 Üdvözöljük az eVAT Tool eszköz publikus tárhelyén!
 
